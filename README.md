@@ -16,3 +16,7 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## Lisans
 [MIT](https://choosealicense.com/licenses/mit/)
+## Patika.dev Profil bağlantısı
+```
+https://app.patika.dev/professor
+```
